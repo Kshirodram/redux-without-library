@@ -49,7 +49,6 @@ const store = createStore(countReducer);
 // DOM elements
 const incrementButton = document.querySelector(".increment");
 const decrementButton = document.querySelector(".decrement");
-console.log(incrementButton);
 
 // Wire click events to actions
 incrementButton.addEventListener("click", () => {
