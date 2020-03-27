@@ -1,0 +1,23 @@
+{
+  "name": "redux-without-library",
+  "version": "1.0.0",
+  "description": "Redux implementation without library",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshirodram/redux-without-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kshirodram/redux-without-library/issues"
+  },
+  "homepage": "https://github.com/Kshirodram/redux-without-library#readme",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
